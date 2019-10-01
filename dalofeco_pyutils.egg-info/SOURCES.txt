@@ -1,0 +1,9 @@
+README.md
+setup.py
+dalofeco_pyutils.egg-info/PKG-INFO
+dalofeco_pyutils.egg-info/SOURCES.txt
+dalofeco_pyutils.egg-info/dependency_links.txt
+dalofeco_pyutils.egg-info/top_level.txt
+utils/Color.py
+utils/Safe.py
+utils/__init__.py

@@ -1,0 +1,23 @@
+# Ignore test suite files
+.tox
+.mypy_cache
+.coverage.*
+.coverage
+
+# IDEs
+.vscode
+
+# Ignore setup.py packaging
+pyutils_dalofeco.egg-info
+build
+dist
+
+# Ignore macOS misc files
+.DS_Store
+
+# Python cache files
+*.pyc
+*__pycache__
+
+# Python virtualenv
+env

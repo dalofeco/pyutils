@@ -1,12 +1,11 @@
 """
-test_utils.py by Dalofeco
+safe_test.py by Dalofeco
 
 Defines test cases for the provided pyutils_dalofeco package.
 """
 from pyutils_dalofeco import Safe
 
 
-# noinspection PyTypeChecker
 class TestSafe:
 
     @staticmethod
